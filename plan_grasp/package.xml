@@ -1,0 +1,18 @@
+<package>
+<name>plan_grasp</name>
+<version>0.0.1</version>
+<description>
+PCL Online Viewer --- A simple point cloud viewer (and grabber) based on the PCL visualizer
+</description>
+<maintainer email="chandanlal@todo.com">Chandanlal</maintainer>
+<!--author email="chandanlal18@todo.com">Chandanlal</author-->
+<license>todo</license>
+<!-- 
+<url type="website">http://wiki.ros.org/pcl_online_viewer</url> 
+-->
+<buildtool_depend>catkin</buildtool_depend>
+<build_depend>sensor_msgs</build_depend>
+<build_depend>pcl_ros</build_depend>
+<build_depend>pcl_conversions</build_depend>
+<export/>
+</package>
