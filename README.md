@@ -23,7 +23,7 @@ Main file: grasp_planner.cpp
 
 Main file: ur_communication.py
  
- -Subcribes to final robot poses, Executes grasping in UR
+ - Subcribes to final robot poses, Executes grasping in UR
  - Initializes the robot communication
  - Controls the robot by sending the poses to grasp the object
   
